@@ -1,5 +1,8 @@
 package com.workintech.lesson.entity;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class HighCourseGpa implements CourseGpa{
     @Override
     public int getGpa() {
