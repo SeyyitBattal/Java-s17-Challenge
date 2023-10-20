@@ -1,4 +1,4 @@
-package com.workintech.lesson;
+package com.workintech.lesson.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
